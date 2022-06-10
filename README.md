@@ -8,13 +8,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msoftware&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=msoftware)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=CrackerSilent67)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=msoftware)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CrackerSilent67)](https://git.io/streak-stats)
 
 #### Latest blog posts and some programming wisdom from @CodeWisdom :-)
 <!-- BLOG-POST-LIST:START -->
-- [[Action required] Your RSS.app Trial has Expired.](https://rss.app)
+- [[Action required] Your ApiKey Trial has Expired.](https://aorec.my.id)
 <!-- BLOG-POST-LIST:END -->
 
 #### Daylily Random comic strip
