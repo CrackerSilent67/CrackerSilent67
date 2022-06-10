@@ -4,15 +4,15 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msoftware&theme=vue)
 
-[![Alvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrackerSilent67)](https://github.com/msoftware/github-readme-stats)
+[![Alvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrackerSilent67)](https://github.com/CrackerSilent67)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msoftware&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrackerSilent67&layout=compact)](https://github.com/CrackerSilent67)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CrackerSilent67)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CrackerSilent67)](https://git.io/streak-stats)
 
-#### Latest blog posts and some programming wisdom from @CodeWisdom :-)
+#### Latest blog posts and some programming wisdom from @AlvinDev :-)
 <!-- BLOG-POST-LIST:START -->
 - [[Action required] Your ApiKey Trial has Expired.](https://aorec.my.id)
 <!-- BLOG-POST-LIST:END -->
